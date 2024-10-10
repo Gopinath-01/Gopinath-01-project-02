@@ -1,0 +1,84 @@
+li{
+    padding-right: 30px;
+}
+
+.profile-cnt{
+    font-size: 40px;
+    font-family: "Anton", system-ui;
+}
+
+.ahead{
+    font-family: "Anton", system-ui;
+    letter-spacing: 2px;
+}
+
+.profilepara{
+    font-size: 30px;
+    font-family: "Raleway", sans-serif;
+}
+
+.aboutpara{
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    text-indent: 50px;
+    font-weight: 500;
+}
+
+.epara{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    color: black;  
+}
+
+.col{
+    border-radius: 10px;
+}
+
+
+i{
+   font-size: 40px;
+   color: rgb(18, 18, 84);
+}
+
+.shead{
+    font-family: "Anton", system-ui;
+    letter-spacing: 2px;
+}
+
+.spara{
+    border-radius: 10px;
+    background-color: white;
+}
+
+.spara:hover{
+    background-color: rgb(255, 221, 0);
+    transition: 0.3s;
+}
+
+.pcnt{
+    padding-top: 30px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 30px;
+}
+
+.phead{
+    font-family: "Anton", system-ui;
+    letter-spacing: 2px;
+}
+
+.fproject{
+    padding-top: 30px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 30px;
+}
+
+
+.btn{
+    list-style-type: none;
+}
+
+
+
+
